@@ -1,0 +1,12 @@
+[submodule "boardgame-socketserver"]
+	path = boardgame-socketserver
+	url = https://github.com/jbradberry/boardgame-socketserver.git
+[submodule "boardgame-socketplayer"]
+	path = boardgame-socketplayer
+	url = https://github.com/jbradberry/boardgame-socketplayer.git
+[submodule "connect-four"]
+	path = connect-four
+	url = https://github.com/jbradberry/connect-four.git
+[submodule "mcts"]
+	path = mcts
+	url = https://github.com/jbradberry/mcts.git
